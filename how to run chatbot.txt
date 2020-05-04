@@ -1,0 +1,20 @@
+You must have 2 package to be installed
+1.Chatterbot 0.8.2
+2.SimpleWebSocketServer
+
+How to install:
+Open cmd or power shell-
+pip install ChatterBot==0.8.2
+
+pip install SimpleWebSocketServer
+
+How to train Chatbot: **need not to run everytime**
+Open cmd or PowerShell in project folder path:
+press left shift and right click to open powershell
+
+python chatbot_train.py
+
+To run chatbot:
+python server.py
+
+keep this open and now open index.html file in browser!
